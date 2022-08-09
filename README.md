@@ -1,1 +1,2 @@
 # httpclient_java_testng_demo
+接口测试简单案例。解析json数据，获取json数据。发送json请求和get请求。使用httpclient
